@@ -1,4 +1,4 @@
-## Llogistic-regression-classification
+## Logistic-regression-classification
 
 ## Overview
 This repository contains a Machine Learning project implemented in Python using the **Logistic Regression** algorithm. The project demonstrates data preprocessing, model training, and evaluation for a classification problem.
